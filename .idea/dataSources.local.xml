@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Derby (Embedded) - GYSTDB" uuid="b9199fee-71fd-4e5d-ac77-d9686f73b7cc">
+      <secret-storage>master_key</secret-storage>
+      <schema-pattern>*</schema-pattern>
+      <default-schemas>*.APP</default-schemas>
+    </data-source>
+  </component>
+</project>
